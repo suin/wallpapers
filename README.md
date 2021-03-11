@@ -4,6 +4,8 @@ Mission Controlで複数のデスクトップを作ることができますが�
 
 Macを買い替えたりのタイミングなどでMacをセットアップするとき、壁紙の設定作業を楽にしてくれます。
 
+![デモ](https://user-images.githubusercontent.com/855338/110732971-7e2cb180-8268-11eb-9c34-94dcc46e1346.gif)
+
 ## 使い方
 
 ### 必要なもの
